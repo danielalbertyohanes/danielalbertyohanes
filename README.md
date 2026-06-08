@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Daniel 👋
 
-<!--
-**danielalbertyohanes/danielalbertyohanes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 Information Systems Graduate
+- 💻 Fullstack Developer
+- 🌱 Currently learning Laravel, Next.js, and Mobile Development
+- 📍 Surabaya, Indonesia
 
-Here are some ideas to get you started:
+## Tech Stack
+![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![Kotlin](https://img.shields.io/badge/Kotlin-purple?style=for-the-badge&logo=kotlin)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- 🚌 BusOnline
+- 🏨 LaraLux Hotel Management
+- 📱 HobbyApp Android
+
+## Connect With Me
+- LinkedIn: https://linkedin.com/in/your-linkedin
+- Portfolio: https://your-portfolio.com
