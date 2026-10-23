@@ -115,18 +115,6 @@ Personal portfolio website showcasing projects, skills, and experience.
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danielalbertyohanes&show_icons=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danielalbertyohanes" />
-</p>
-
----
-
 ## Connect With Me
 
 📧 [danielalbertyohanes@gmail.com](mailto:danielalbertyohanes@gmail.com)
